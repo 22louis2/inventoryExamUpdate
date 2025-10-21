@@ -13,10 +13,10 @@ This is a single-activity Android application for inventory management, featurin
 ## Screenshots
 
 ### App Running
-![App Screenshot](screenshots/first_screenshot.png)
-![App Screenshot](screenshots/second_screenshot.png)
-![App Screenshot](screenshots/third_screenshot.png)
-![App Screenshot](screenshots/fourth_screenshot.png)
+![App Screenshot](screenshot/first_screenshot.png)
+![App Screenshot](screenshot/second_screenshot.png)
+![App Screenshot](screenshot/third_screenshot.png)
+![App Screenshot](screenshot/fourth_screenshot.png)
 
 ## Project Structure
 ```
